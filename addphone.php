@@ -53,10 +53,12 @@ function del($data,$head)
 }
 
 
-add("Lily",$head);
-add("Bill",$head);
 add("YaYa",$head);
 add("BinBin",$head);
+add("Lily",$head);
+add("Bill",$head);
+
+
 
 display($head);
 echo "<hr/>";
